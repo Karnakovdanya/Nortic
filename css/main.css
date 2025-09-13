@@ -397,6 +397,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
     padding: 90px;
     min-height:70dvh; 
     border-radius: 50px;
+    border: 5px solid red; /
 }
 
 .page-about h1 {
@@ -738,6 +739,7 @@ footer hr {
 footer > p {
     text-align: center;
 }
+
 
 
 
