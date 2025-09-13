@@ -243,6 +243,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
     background: url('Img/Group17.png') no-repeat center center;
     background-size: cover;
     padding: 60px;
+    min-height: 400px; 
 }
 
 .features h3, .features p
@@ -739,6 +740,7 @@ footer hr {
 footer > p {
     text-align: center;
 }
+
 
 
 
