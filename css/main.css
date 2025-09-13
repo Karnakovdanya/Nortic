@@ -392,12 +392,10 @@ header nav ul li.btn a:hover, .email .block button:hover {
 /*ABOUT*/
 
 .page-about {
-    background: url('../Img/Group30.png') no-repeat center 30%/cover;
+    background: url('../Img/Group30.png') no-repeat center center;
     background-size: cover;
     padding: 90px;
-    min-height:70dvh; 
     border-radius: 50px;
-    
 }
 
 .page-about h1 {
@@ -739,6 +737,7 @@ footer hr {
 footer > p {
     text-align: center;
 }
+
 
 
 
