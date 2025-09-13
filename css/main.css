@@ -240,7 +240,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
 /*Макет*/
 
 .features {
-    background: url('/Img/Group\ 17.png') no-repeat center center fixed;
+    background: url('Img/Group\ 17.png') no-repeat center center fixed;
     background-size: cover;
     padding: 60px;
 }
@@ -739,4 +739,5 @@ footer hr {
 footer > p {
     text-align: center;
 }
+
 
