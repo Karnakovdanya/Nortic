@@ -140,7 +140,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
 .hero img {
       width: 918px; height:auto;  
     position:absolute;
-    top: -50px; right: -150px;
+    top: -50px; right: -10px;
     
 }
 
@@ -1009,4 +1009,5 @@ footer > p {
     transform: scale(1.1);
 
 }
+
 
