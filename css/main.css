@@ -1026,7 +1026,7 @@ footer > p {
 }
 
 .wrapper-cover {
-    background: url('/Img/Group 1302.png') no-repeat center center fixed;
+    background: url('..Img/Group 1302.png') no-repeat center center fixed;
     background-size: cover;
 }
 
@@ -1090,5 +1090,6 @@ footer > p {
 .img-wrapper:hover .content {
   opacity: 1;
 }
+
 
 
